@@ -194,7 +194,7 @@ a {
         border: 0;
         background-color: transparent;
         color: white;
-        font-size: 30px;
+        font-size: 40px;
         margin: 20px;
         align-self: flex-end;
 
@@ -204,6 +204,7 @@ a {
         display: none;
         background-color: #2b2c38;
         margin: 0px;
+
     }
 
     ul.show {
@@ -214,9 +215,8 @@ a {
         display: flex;
         flex-direction: column-reverse;
         background-color: #2b2c38;
-
+        align-items: flex-start;
     }
-
 
     .logo {
         display: none;
@@ -229,6 +229,7 @@ a {
     flex-direction: column;
     list-style-type: disc;
     margin-left: 18px;
+    background-color: white;
 }
 
 .information-list li {
