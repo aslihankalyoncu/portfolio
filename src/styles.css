@@ -1,21 +1,14 @@
 body {
     font-family: 'Poppins', sans-serif;
-
-
 }
 
 section {
     background-color: white;
-    /* border: solid black 1px; */
     margin: -8px;
-
-
 }
 
 .hero {
-    /* background-color: #1c1d25; */
     background-color: #1c1d25;
-    ;
     height: 105vh;
     color: white;
     font-size: 40px;
@@ -89,7 +82,6 @@ p {
     width: 200px;
     height: 55px;
     border-radius: 30px;
-    /* background-color: coral; */
     background-color: #ff7e67;
     text-align: center;
     font-size: 30px;
@@ -205,12 +197,12 @@ a {
         font-size: 30px;
         margin: 20px;
         align-self: flex-end;
+
     }
 
     ul {
         display: none;
-        /* background-color: #2b2c38; */
-        background-color: #0c0a28;
+        background-color: #2b2c38;
         margin: 0px;
     }
 
@@ -221,7 +213,6 @@ a {
     nav {
         display: flex;
         flex-direction: column-reverse;
-        /* background-color: #2b2c38; */
         background-color: #2b2c38;
 
     }
@@ -245,7 +236,7 @@ a {
 }
 
 
-.mycolor {
+/* .mycolor {
     background-color: #ec45af;
     background-color: #00a496;
     background-color: #c371fd;
@@ -253,4 +244,4 @@ a {
     background-color: #00aff3;
     background-color: #ff7762;
 
-}
+} */
